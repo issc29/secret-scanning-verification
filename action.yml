@@ -1,0 +1,10 @@
+name: 'Secret Scanning Verification Action'
+description: 'Process to verify secret scanning alerts'
+inputs:
+  github-token:  # id of input
+    description: 'Token to use'
+    required: true
+
+runs:
+  using: 'node12'
+  main: 'index.js'
