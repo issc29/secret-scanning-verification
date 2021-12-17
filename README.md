@@ -1,9 +1,2 @@
-# Trial Onboarding Comments Action
+# Secret Scanning Verification
 
-Usage: 
-
-```
-with:
-  github-token: ${GITHUB_TOKEN}
-  contact-users: '@issc29'
-```
